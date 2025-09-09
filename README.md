@@ -7,5 +7,14 @@ Our program includes to:
 - LCD,
 - SPI and
 - Servo 
+
 libraries to be able to do this operation.
 ---
+```bash
+## 📂 Project Structure  
+---------------------------
+├── kapi_proje_4/
+│ ├── kapi_proje_4.h/ # Project's header (libraies, varibles)
+│ └── kapi_proje_4.ino/ # Main project file (C++)
+│
+
